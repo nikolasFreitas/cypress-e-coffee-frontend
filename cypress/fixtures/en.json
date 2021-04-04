@@ -1,0 +1,44 @@
+{
+  "product": {
+    "title": "See %{title}",
+    "cover": "%{name}'s cover image",
+    "buyform": {
+      "addToCart": "Add to cart ({{price}})",
+      "quantity": "Quantity"
+    }
+  },
+  "recomendations": {
+    "title": "Clients also enjoyed"
+  },
+  "shops": {
+    "title": "Stores near you",
+    "buttonSeeStore": "See store",
+    "seeMore": "See all shops",
+    "loadMore": "See More",
+    "products": {
+      "title": "Store Products",
+      "seeMore": "See more coffees"
+    }
+  },
+  "banners": [
+    {
+      "title": "Your business can be here",
+      "subtitle": "Get a space reserved for all your products"
+    }
+  ],
+  "cart": {
+    "pageTitle": "Cart items",
+    "openCart": "Open cart",
+    "completePurchase": "Complete purchase",
+    "aboutButton": "Click here to proceed to check-out",
+    "deleteModal": {
+      "title": "Do you want to remove this item?",
+      "cancel": "Cancel",
+      "confirm": "Confirm"
+    }
+  },
+  "errors": {
+    "empty_content": "There is nothing to see here",
+    "none": ""
+  }
+}

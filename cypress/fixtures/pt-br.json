@@ -1,0 +1,44 @@
+{
+  "product": {
+    "title": "Ver %{title}",
+    "cover": "Imagem de capa %{name}",
+    "buyform": {
+      "addToCart": "Adicionar ao carrinho ({{price}})",
+      "quantity": "Quantidade"
+    }
+  },
+  "recomendations": {
+    "title": "Clientes também gostaram"
+  },
+  "shops": {
+    "title": "Lojas próximas de você",
+    "buttonSeeStore": "Ver loja",
+    "seeMore": "Ver todas as lojas",
+    "loadMore": "Ver mais",
+    "products": {
+      "title": "Produtos da loja",
+      "seeMore": "Veja mais cafés"
+    }
+  },
+  "banners": [
+    {
+      "title": "Seu negócio pode estar aqui",
+      "subtitle": "Tenha um espaço reservado para todos seus destaques e produtos"
+    }
+  ],
+  "cart": {
+    "pageTitle": "Items no carrinho",
+    "openCart": "Abrir carrinho",
+    "completePurchase": "Completar compra",
+    "aboutButton": "Clique aqui para continuar o check-out",
+    "deleteModal": {
+      "title": "Deseja remover este item?",
+      "cancel": "Cancelar",
+      "confirm": "Confirmar"
+    }
+  },
+  "errors": {
+    "empty_content": "Não há nada para ver aqui",
+    "none": ""
+  }
+}
