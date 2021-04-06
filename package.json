@@ -4,9 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "cypress open",
-    "headless:chrome": "cypress run --browser chrome --headless",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "CYPRESS_BASE_URL=http://localhost:3000/e-coffee-frontend cypress open",
+    "headless:chrome": "cypress run --browser chrome --headless"
   },
   "keywords": [],
   "author": "",
