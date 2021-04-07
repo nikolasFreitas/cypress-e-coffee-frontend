@@ -4,7 +4,7 @@ import ptTranslation from '../../fixtures/pt-br.json';
 
 context('#Home-page', () => {
   beforeEach(() => {
-    cy.visit('https://nikolasfreitas.github.io/e-coffee-frontend/')
+    cy.visit('http://localhost:3000/e-coffee-frontend')
   })
 
 

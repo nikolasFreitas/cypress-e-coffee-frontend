@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "CYPRESS_BASE_URL=http://localhost:3000/e-coffee-frontend cypress open",
+    "start": "cypress open",
     "headless:chrome": "cypress run --browser chrome --headless"
   },
   "keywords": [],
